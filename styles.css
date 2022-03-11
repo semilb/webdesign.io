@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 3% 8%; 
+    background-color: #fedcb2;
+}
+
+header {
+    text-align: center;
+}
+
+th {
+    text-align: auto;
+    font-weight: 400;
+    background-color: rgba(254, 162, 225, 0.5);
+    font-size: 16px;
+}
+
+td {
+    text-align: auto;
+}
+
+.hind {
+    font-weight: 700;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 30px;
+}
+
+.lexend {
+    font-weight: 500;
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 25px;
+}
+
+.hubballi {
+    font-weight: 400;
+    font-family: 'Hubballi', cursive;
+    font-size: 16px;
+}
+
+.normal {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.bold {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.italic {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.centered {
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+
+.boarders {
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+    padding: 0px 30px 30px 30px; 
+    background-color: white;
+}
+
+.colors {
+    text-align: justify;
+    display: inline-block;
+    font-family: 'Hubballi', cursive;
+    font-size: 16px;
+    margin: 25px;
+    padding: 15px 30px 5px 5px; 
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    border-radius: 0px 50% 50% 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.blue {
+    background-color: #3750a2;
+    color: white;
+}
+.purple {
+    background-color: #843a8f;
+    color: white;
+}
+.yellow {
+    background-color: #faab2a;
+    color: white;
+}
+.green {
+    background-color: #4aa788;
+    color: white; 
+}
+.orange {
+    background-color: #e28132;
+    color: white; 
+}
+.cream {
+    background-color: #fedcb2;
+}
+.raspberry {
+    background-color: #b00100;
+    color: white;
+}
+.pink {
+    background-color: #fea2e1
+}
+
+
+
+
+
