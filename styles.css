@@ -4,7 +4,7 @@
 
 body {
     background-color: #fedcb2;
-    margin: 2% 4%;
+    margin: 2% 10%;
 }
 
 header {
@@ -65,7 +65,7 @@ header {
 .boarders {
     border: 2px solid rgba(0, 0, 0, 0.3);
     margin-bottom: 30px;
-    padding: 0px 30px 30px 30px; 
+    padding: 1%; 
     background-color: white;
     width: 100%;
     height: 40%;
@@ -75,8 +75,8 @@ header {
     display: inline-block; 
     font-family: 'Hubballi', cursive;
     font-size: 16px;
-    margin: 10px;
-    padding: 15px 30px 5px 5px; 
+    margin: 4%;
+    padding: 25px 30px 5px 15px; 
     border: 2px solid rgba(0, 0, 0, 0.3);
     border-radius: 0px 50% 50% 50%;
     height: 100px;
@@ -91,28 +91,38 @@ header {
     background-color: #843a8f;
     color: white;
 }
-.yellow {
-    background-color: #faab2a;
-    color: white;
-}
-.green {
-    background-color: #4aa788;
-    color: white; 
-}
-.orange {
-    background-color: #e28132;
-    color: white; 
-}
-.cream {
-    background-color: #fedcb2;
-}
 .raspberry {
     background-color: #b00100;
     color: white;
 }
-.pink {
-    background-color: #fea2e1
+.evergreen {
+    background-color: #4E6343;
+    color: white;
 }
+.blue-denim {
+    background-color: #416476;
+    color: white;
+} 
+.orange {
+    background-color: #e28132;
+}       
+.green {
+    background-color: #4aa788;
+}
+.yellow {
+    background-color: #faab2a;
+}
+.pink {
+    background-color: #fea2e1; 
+}
+.cream {
+    background-color: #fedcb2;
+}
+
+
+
+
+
 
 
 
